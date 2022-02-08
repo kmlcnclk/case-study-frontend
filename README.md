@@ -1,4 +1,4 @@
-# Case Study Backend
+# Case Study Frontend
  
 
 #### Bu projeyi yaparken ilk önce backend'i yaptım sonra da frontend'e geçtim ve onu yaptım.
